@@ -1,6 +1,6 @@
 # Komputronik-scraper
 
-A program scraping data from every product page of gaming computers category on komputronik.pl.
+A program scraping data from every product page of [Komputronik](https://www.komputronik.pl) gaming computers category and saving it to csv file.
 
 #### To run:
 ```
